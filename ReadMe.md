@@ -23,6 +23,12 @@ Your ReadMe file for the assignments **must** include:
 
 5.  Outline of algorithm (depending on the assignment)
 
+6.  A list of people who materially helped you on the assignment. If
+    you worked with a friend and you shared ideas, you need to 
+    list that person, e.g., "Josh Whedon helped me on this assignment".
+    You do not need to list TAs, or professors, but you may feel free
+    to do so.
+
 The ReadMe file shows the reader, in a quick glance, what the program is
 about and gives a general idea of how it works. For short programs the
 readme file will be short, for more complicated programs the readme file
