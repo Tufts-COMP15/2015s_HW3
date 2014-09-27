@@ -1,5 +1,5 @@
-# ReadMe for COMP 15 HW2 
-## Linked Lists
+# ReadMe for COMP 15 HW3
+## ISIS Course Roster and Waitlists
 
 Every assignment you submit you will include a ReadMe file. The name
 could be ReadMe, readme, Read-me.txt, readME, ReadMe.md (the “.md”
