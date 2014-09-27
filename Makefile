@@ -11,7 +11,7 @@ isis_course: IsisCourse.cpp IsisCourse.h \
 clean:
 	rm -f hw3
 
-make provide:
+provide:
 	provide comp15 hw3 main.cpp IsisCourse.cpp IsisCourse.h \
 	        Set.cpp Set.h Queue.cpp Queue.h Student.h \
 	        ReadMe.md Makefile
