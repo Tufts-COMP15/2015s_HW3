@@ -31,19 +31,19 @@ public:
 	// dequeue a char from the front of the queue
 	Student dequeue();
 
-	// returns true if there are elements in the
-	// stack, false otherwise
+	// returns true if there are no elements in the
+	// queue, false if the queue has elements
 	bool is_empty();
 
 private:
 	// The private section of this header file assumes
-	// you will use a dynamic array for your stack.
+	// you will use a dynamic array for your queue.
 	// Feel free to use a linked-list instead.
 	// You may update the private section of this class, but
 	// not the public section.
-	Student *queue_array; // the dynamic array for the stack
-	int capacity; // the capacity of the stack
-	int size; // how many characters there are in the stack
+	Student *queue_array; // the dynamic array for the queue
+	int capacity; // the capacity of the queue 
+	int size; // how many characters there are in the queue
 	int front; // the front of the queue
 	int back;  // the back of the queue
 	void expand(); // expand the circular queue
