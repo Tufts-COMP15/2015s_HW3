@@ -16,7 +16,8 @@
  * the students proceed off the waitlist immediately, until the
  * class is at capacity (full). Students come off the major waitlist
  * first (in the order they were put on the list), and then if the
- * major waitlist is full, students come off the other waitlist and
+ * major waitlist is empty and the class is still not at capacity,
+ * students come off the other waitlist and
  * into the course, until the course is at capacity.
  *
  * When a student is dropped from the course, students are added from
